@@ -18,6 +18,26 @@ Follow the steps below to install and run the Time Card Management System:
 
 5. Run the compiled executable.
 
+### Example Usage
+
+* Upon running the program, you will be prompted to enter a username.
+* Enter your username or type “exit” to quit.
+* Enter your password when prompted.
+* Depending on the account you will have access to employee or admininstrator rights
+
+* Employees can:
+  * Clock In
+  * Clock Out
+  * View Schedule
+  * Logout
+
+* Administrators can:
+  * Add Schedule
+  * Remove Employee
+  * Change Employee Credentials
+  * Create Employee
+  * Logout
+
 ## Version
 
 * 1: user authentification created, admin and employee accounts created
