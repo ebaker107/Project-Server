@@ -2,26 +2,21 @@
 
 The Time Clock Management System streamlines attendance and work hour management for organizational efficiency. Employees can log in, clock in at the start of their workday, and clock out upon completion. The system meticulously records work hours, ensuring precise time tracking and simplified payroll management. Administrators have easy access to review employee work hours and attendance records.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+![image](https://github.com/ebaker107/Project-Server/assets/137532833/115892e0-8479-476a-8978-e3ca9f166288)
 
 ### Installing
 
 Follow the steps below to install and run the Time Card Management System:
-Download the source code file to your computer.
-Open a terminal or command prompt.
-Navigate to the directory where the source code is located.
-Compile the code using a C++ compiler.
-Run the compiled executable.
+
+1. Download the source code file to your computer.
+
+2. Open a terminal or command prompt.
+
+3. Navigate to the directory where the source code is located.
+
+4. Compile the code using a C++ compiler.
+
+5. Run the compiled executable.
 
 ## Running the tests
 
@@ -63,8 +58,11 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
+* **Elaina Baker** - [ebaker107](https://github.com/ebaker107)
+* **Abdifatah Dahir** - [MugenGm](https://github.com/MugenGm)
+* **Jakob Haluska** - [jhaluska3](https://github.com/jhaluska3)
+* **Daniel Ourai** - [PurpleBooth](https://github.com/PurpleBooth)
+  
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
